@@ -1,0 +1,21 @@
+{
+  "name": "marlins-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BDD",
+    "ios",
+    "android",
+    "web"
+  ],
+  "author": "CarterTsai",
+  "license": "ISC",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "nodejieba": "^2.2.3"
+  }
+}
